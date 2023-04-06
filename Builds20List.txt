@@ -1,4 +1,4 @@
-id="plugin.program.zeWave"
+id="plugin.program.waveHeb"
 zip="https://zeWave.github.io/Wave/"
 
 name="= Nexsus & Matrix Builds ="
@@ -17,7 +17,7 @@ description="Kodi 20 Nexus Builds"
 
 name="Pellucid 20"
 version="0.0.1"
-url="https://github.com/zeWave/Builds/raw/main/Pellucid201v001A1a.zip"
+url="https://github.com/zeWave/Builds/raw/master/Pellucid201v001A1a.zip"
 minor="http://"
 gui="http://"
 kodi="20.1"
