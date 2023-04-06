@@ -45,7 +45,7 @@ description="Unity 20 Build."
 
 name="Eminence 20"
 version="0.0.1"
-url="https://github.com/zeWave/Builds/raw/main/Eminence20v001A3d.zip"
+url="https://github.com/zeWave/Builds/raw/main/Eminence201v001A1a.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
