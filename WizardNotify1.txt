@@ -1,3 +1,6 @@
+1
+|||
+
 Hello & welcome to The Wave build installation wizard, 
 
 Important to read!
