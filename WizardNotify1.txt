@@ -14,7 +14,7 @@ A subscription must be purchased exclusively from the official website!
 link to a website:
 https://real-debrid.com/
 
-3- The Elementum version 0.1.87 extension must be installed manually.
+4- The Elementum version 0.1.87 extension must be installed manually.
 link to a website:
 https://github.com/elgatito/plugin.video.elementum/releases/tag/v0.1.87/
 
