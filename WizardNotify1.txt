@@ -1,28 +1,21 @@
-Hello everyone, 
+Hello & welcome to The Wave build installation wizard, 
 
-This project is intended for the purpose of experimenting and learning everything related to Kodi.
+Important to read!
 
+1- This project is intended for the purpose of experimenting and learning everything related to Kodi.
 As far as I'm concerned, only my family members are allowed to use this project.
-
 My apologies and thank you for understanding.
 
-# The Wave Rep
-## Current Version: 0.0.1
+2- This build is completely free!
+If someone charges you money for the build, its installation, or anything else related to it, it is most likely a scammer.
 
-Instructions for adding this repo:
+3- It is recommended to purchase a subscription to Real Debrid in order to receive more and higher quality sources.
+A subscription must be purchased exclusively from the official website!
+link to a website:
+https://real-debrid.com/
 
+3- The Elementum version 0.1.87 extension must be installed manually.
+link to a website:
+https://github.com/elgatito/plugin.video.elementum/releases/tag/v0.1.87/
 
-<p align="left">
-  <ul>
-    <li>Go to the Kodi file manager.</li>
-    <li>Click on "Add source"</li>
-    <li>The path for the source is <code>https://zeWave.github.io/Wave/</code> (Give it the name "Wave").</li>
-    <li>Go to "Addons"</li>
-    <li>In Addons, install an addon from zip.  When it asks for the location, select "The Wave Repo", and install <a href="https://zeWave.github.io/Wave/repository.zeWave-0.0.1.zip">repository.zeWave-0.0.1.zip</a>.</li>
-    <li>Go back to Addons install, but this time, select "Install from repository"</li>
-    <li>Select the "The Wave Repo"</li>
-    <li>Go into the "Programs add-ons" section in the repo, and you'll find The Wave Wizard</li>
-  </ul>
-</p>
-
-## Enjoy!
+Bye.
