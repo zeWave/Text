@@ -11,11 +11,11 @@ If someone charges you money for the build, its installation, or anything else r
 
 3- It is recommended to purchase a subscription to Real Debrid in order to receive more and higher quality sources.
 A subscription must be purchased exclusively from the official website!
-link to a website:
+link to the website:
 https://real-debrid.com/
 
 4- The Elementum version 0.1.87 extension must be installed manually.
-link to a website:
+link to the website:
 https://github.com/elgatito/plugin.video.elementum/releases/tag/v0.1.87/
 
 Bye.
