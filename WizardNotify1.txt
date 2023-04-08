@@ -2,7 +2,6 @@
 |||
 
 Hello & welcome to The Wave build installation wizard, 
-
 Important to read!
 
 1- This project is intended for the purpose of experimenting and learning everything related to Kodi.
