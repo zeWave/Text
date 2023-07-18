@@ -19,7 +19,8 @@ https://real-debrid.com/
 4- InputStream Adaptive Add-on is a dependency for the following Add-ons: YouTube, DaddyLive, Rising-Tides. 
 Sometimes one must install it manually from the following links: 
 https://mirrors.kodi.tv/addons/nexus/inputstream.adaptive+android-armv7/
-https://mirrors.kodi.tv/addons/nexus/inputstream.adaptive+osx-arm64/
+or
+https://mirrors.kodi.tv/addons/nexus/inputstream.adaptive+android-aarch64/
 
 5- If you change langueage to Hebrew or something else, 
 it is recomended in Kodi -> Settings -> Skin-settings -> Home -> Home Shortcuts and Widgets -> Show widget posters ->
