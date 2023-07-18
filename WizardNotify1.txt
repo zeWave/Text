@@ -17,7 +17,7 @@ link to the website:
 https://real-debrid.com/
 
 4- InputStream Adaptive Add-on is a dependency for the following Add-ons: YouTube, DaddyLive, Rising-Tides. 
-Sometime one must install it manually from the following links: 
+Sometimes one must install it manually from the following links: 
 https://mirrors.kodi.tv/addons/nexus/inputstream.adaptive+android-armv7/
 https://mirrors.kodi.tv/addons/nexus/inputstream.adaptive+osx-arm64/
 
