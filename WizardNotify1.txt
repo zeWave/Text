@@ -1,4 +1,4 @@
-1
+2
 |||
 
 Hello & welcome to The Wave build installation wizard, 
