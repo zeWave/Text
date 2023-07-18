@@ -16,8 +16,9 @@ A subscription must be purchased exclusively from the official website!
 link to the website:
 https://real-debrid.com/
 
-4- The Elementum version 0.1.87 extension must be installed manually.
-link to the website:
-https://github.com/elgatito/plugin.video.elementum/releases/tag/v0.1.87/
+4- InputStream Adaptive Add-on is a dependency for the following Add-ons: YouTube, DaddyLive, Rising-Tides. 
+Sometime one must install it manually from the following links: 
+https://mirrors.kodi.tv/addons/nexus/inputstream.adaptive+android-armv7/
+https://mirrors.kodi.tv/addons/nexus/inputstream.adaptive+osx-arm64/
 
-Bye.
+Have a good Day :)
