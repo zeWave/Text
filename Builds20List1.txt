@@ -17,7 +17,7 @@ description="Kodi 20 Nexus Builds"
 
 name="Eminence 20"
 version="0.0.1"
-url="https://github.com/zeWave/Builds/raw/master/Eminence201v001A2b.zip"
+url="https://github.com/zeWave/Builds/raw/master/Eminence202v001A2c.zip"
 minor="http://"
 gui="http://"
 kodi="20.1"
