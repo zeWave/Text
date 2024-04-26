@@ -49,7 +49,7 @@ description="Pellucid 20 Build."
 
 name="Silvo 21"
 version="0.0.1"
-url="https://github.com/zeWave/Builds/raw/master/Silvo201v001A1a.zip"
+url="https://github.com/zeWave/Builds/raw/master/Silvo210v001A1a.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
