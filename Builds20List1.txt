@@ -2,7 +2,7 @@ id="plugin.program.waveguiwiz"
 zip="https://zeWave.github.io/Wave/"
 
 
-name="= Omega Builds ="
+name="=== Omega Builds ==="
 version="0.0.1"
 url="https://"
 minor="http://"
