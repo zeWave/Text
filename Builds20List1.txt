@@ -63,8 +63,8 @@ description="for Kodi experts only."
 
 
 name="Estuary 21"
-version="1.0.1"
-url="https://github.com/zeWave/Builds/raw/master/Estuary21v001A1a.zip"
+version="1.0.2"
+url="https://github.com/zeWave/Builds/raw/master/Estuary210v102A1a.zip"
 minor="http://"
 gui="https://github.com/zeWave/Builds/raw/master/Build_Estuary_Quick_Update-01.zip"
 kodi="21.0"
