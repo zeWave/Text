@@ -18,8 +18,8 @@ description="Kodi 21 Omega Builds"
 
 
 name="Silvo 21"
-version="0.0.3"
-url="https://github.com/zeWave/Builds/raw/master/Silvo210v003A1a.zip"
+version="0.0.4"
+url="https://github.com/zeWave/Builds/raw/master/Silvo210v004A1a.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
