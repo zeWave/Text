@@ -93,7 +93,7 @@ description="Test Build."
 
 
 name="Phenomenal K21 Debrid"
-version="1.0.2"
+version="1.2.0"
 url="https://github.com/zeWave/Builds/raw/master/Phenomenal210v120A1a.zip"
 minor="http://"
 gui="https://github.com/zeWave/Builds/raw/master/Build_Estuary_Quick_Update-01.zip"
