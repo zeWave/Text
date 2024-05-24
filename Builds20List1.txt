@@ -34,7 +34,7 @@ description="Build with Free (Non-Debrid) movie/tv-show addons, LiveTV addons, s
 
 name="Zephyr K21 Debrid"
 version="1.1.10"
-url="https://github.com/zeWave/Builds/raw/master/Zephyr210v1110A1a.zip"
+url="https://github.com/zeWave/Builds/raw/master/Zephyr210v1110A2a.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
