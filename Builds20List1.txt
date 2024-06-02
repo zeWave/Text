@@ -4,11 +4,16 @@ zip="https://zeWave.github.io/Wave/"
 
 name="=== K21 Omega Builds ==="
 version="0"
+url="https://"
+minor="http://"
+gui="http://"
 kodi="21.0"
+theme="http://"
 icon="https://github.com/zeWave/Images/raw/master/icon-Best-Kodi-21-Builds.jpg"
 fanart="https://raw.githubusercontent.com/zeWave/Images/master/fanart.jpg"
+preview="http://"
 adult="no"
-description="Kodi 21 Omega Builds"
+description="Best Kodi 21 Omega Builds"
 
 
 name="Silvo K21 Free"
@@ -60,7 +65,7 @@ Skin: Eminence-Mod."
 
 
 name="=== for experts only ==="
-version="1"
+version="0"
 url="https://"
 minor="http://"
 gui="http://"
