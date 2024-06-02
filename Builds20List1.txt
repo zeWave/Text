@@ -3,16 +3,12 @@ zip="https://zeWave.github.io/Wave/"
 
 
 name="=== K21 Omega Builds ==="
-minor="http://"
-gui="http://"
+version="0"
 kodi="21.0"
-theme="http://"
 icon="https://github.com/zeWave/Images/raw/master/icon-Best-Kodi-21-Builds.jpg"
 fanart="https://raw.githubusercontent.com/zeWave/Images/master/fanart.jpg"
-preview="http://"
 adult="no"
-info="http://"
-description="Kodi 21 Omega Builds"
+description="Kodi 21 Omega Builds Below"
 
 
 name="Silvo K21 Free"
