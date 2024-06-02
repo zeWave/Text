@@ -18,7 +18,7 @@ description="Kodi 21 Omega Builds"
 
 
 name="Silvo K21 Free"
-version="0.0.9"
+version="2.0.9"
 url="https://github.com/zeWave/Builds/raw/master/Silvo210v009A1a.zip"
 minor="http://"
 gui="http://"
@@ -33,7 +33,7 @@ description="Build with Free (Non-Debrid) movie/tv-show addons, LiveTV addons, s
 
 
 name="Zephyr K21 Debrid"
-version="1.1.10"
+version="3.0.10"
 url="https://github.com/zeWave/Builds/raw/master/Zephyr210v1110A2a.zip"
 minor="http://"
 gui="http://"
@@ -93,7 +93,7 @@ description="Test Build."
 
 
 name="Phenomenal K21 Debrid"
-version="1.2.0"
+version="5.0.1"
 url="https://github.com/zeWave/Builds/raw/master/Phenomenal210v120A1a.zip"
 minor="http://"
 gui="https://github.com/zeWave/Builds/raw/master/Build_Estuary_Quick_Update-01.zip"
