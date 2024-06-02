@@ -3,8 +3,7 @@ zip="https://zeWave.github.io/Wave/"
 
 
 name="=== K21 Omega Builds ==="
-version="1"
-url=""
+version=""
 minor="http://"
 gui="http://"
 kodi="21.0"
