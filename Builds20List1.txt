@@ -29,7 +29,8 @@ fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
 preview="http://"
 adult="no"
 info="https://zewave.github.io/"
-description="Build with Free (Non-Debrid) movie/tv-show addons, LiveTV addons, sports addons.  - Skin: Aeon Nox SiLVO."
+description="Addons: LiveTV, Sports, Free (Non-Debrid) movie/tv-show. 
+Skin: Aeon Nox SiLVO."
 
 
 name="Zephyr K21 Debrid"
@@ -44,7 +45,8 @@ fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
 preview="http://"
 adult="no"
 info="https://zewave.github.io/"
-description="Build with Real-Debrid movie/tv-show addons, LiveTV addons, sports addons, Radio & Music addons. Skin: Arctic Zephyr Reloaded."
+description="Addons: LiveTV, Sports, Real-Debrid Movie/TV-Show. 
+Skin: Arctic Zephyr Reloaded."
 
 
 name="Eminence-Mod K21 Debrid"
@@ -59,8 +61,8 @@ fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
 preview="http://"
 adult="no"
 info="https://zewave.github.io/"
-description="Build with Real-Debrid movie/tv-show addons, LiveTV addons, sports addons, Radio & Music addons. 
-Skin: Eminence2-Mod."
+description="Addons: LiveTV, Sports, Real-Debrid Movie/TV-Show. 
+Skin: Eminence-Mod."
 
 
 name="=== for experts only ==="
@@ -119,4 +121,6 @@ fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
 preview="http://"
 adult="no"
 info="https://zewave.github.io/"
-description="A test Build with Real-Debrid movie/tv-show addon (Asgard), LiveTV addon (IdanPlus), sports addon (SportHD), Radio & Music addon (IdanPlus). Skin: Phenomenal Mod."
+description="A test Build with 
+Addons: LiveTV (IdanPlus), Sports (SportHD), Real-Debrid Movie/TV-Show (Asgard).
+Skin: Phenomenal Mod."
