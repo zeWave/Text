@@ -47,9 +47,9 @@ info="https://zewave.github.io/"
 description="Build with Real-Debrid movie/tv-show addons, LiveTV addons, sports addons, Radio & Music addons. Skin: Arctic Zephyr Reloaded."
 
 
-name="EminenceMod K21 Debrid"
-version="4.0.1"
-url="https://github.com/zeWave/Builds/raw/master/EminenceMod210v401A1a.zip"
+name="Eminence-Mod K21 Debrid"
+version="4.0.2"
+url="https://github.com/zeWave/Builds/raw/master/EminenceMod210v402A1.zip"
 minor="http://"
 gui="https://github.com/zeWave/Builds/raw/master/Build_Estuary_Quick_Update-01.zip"
 kodi="21.0"
