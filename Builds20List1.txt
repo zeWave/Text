@@ -34,7 +34,7 @@ Skin: Aeon Nox SiLVO."
 
 name="Zephyr K21 Debrid"
 version="1.1.10"
-url="https://github.com/zeWave/Builds/raw/master/Zephyr210v1110A2a.zip"
+url="https://github.com/zeWave/Builds/raw/master/Zephyr210v1111A1a.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
