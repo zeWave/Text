@@ -17,8 +17,8 @@ description="Best Kodi 21 Omega Builds"
 
 
 name="Silvo K21 Free"
-version="0.0.9"
-url="https://github.com/zeWave/Builds/raw/master/Silvo210v009A1a.zip"
+version="0.0.10"
+url="https://github.com/zeWave/Builds/raw/master/Silvo210v0010A1a.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
@@ -29,7 +29,7 @@ preview="http://"
 adult="no"
 info="https://zewave.github.io/"
 description="Addons: LiveTV, Sports, Free (Non-Debrid) movie/tv-show. 
-Skin: Aeon Nox SiLVO."
+Skin: Aeon Nox SiLVO. Updated 03/08/2024"
 
 
 name="Zephyr K21 Debrid"
