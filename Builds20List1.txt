@@ -48,22 +48,6 @@ description="Addons: LiveTV, Sports, Real-Debrid Movie/TV-Show.
 Skin: Arctic Zephyr Reloaded. Hebrew. Updated 03/08/2024"
 
 
-name="Eminence K21 Debrid"
-version="4.0.2"
-url="https://github.com/zeWave/Builds/raw/master/EminenceMod210v402A1.zip"
-minor="http://"
-gui="https://github.com/zeWave/Builds/raw/master/Build_Estuary_Quick_Update-01.zip"
-kodi="21.0"
-theme="http://"
-icon="https://github.com/zeWave/images/raw/master/icon-EminenceMod210v401.png"
-fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
-preview="http://"
-adult="no"
-info="https://zewave.github.io/"
-description="Addons: LiveTV, Sports, Real-Debrid Movie/TV-Show. 
-Skin: Eminence-Mod."
-
-
 name="=== for experts only ==="
 version="0"
 url="https://"
@@ -77,6 +61,7 @@ preview="http://"
 adult="no"
 info="http://"
 description="for Kodi experts only."
+
 
 name="Estuary K21"
 version="1.0.2"
@@ -106,6 +91,22 @@ preview="http://"
 adult="no"
 info="http://"
 description="Test Build."
+
+
+name="Eminence K21 Debrid"
+version="4.0.2"
+url="https://github.com/zeWave/Builds/raw/master/EminenceMod210v402A1.zip"
+minor="http://"
+gui="https://github.com/zeWave/Builds/raw/master/Build_Estuary_Quick_Update-01.zip"
+kodi="21.0"
+theme="http://"
+icon="https://github.com/zeWave/images/raw/master/icon-EminenceMod210v401.png"
+fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
+preview="http://"
+adult="no"
+info="https://zewave.github.io/"
+description="Addons: LiveTV, Sports, Real-Debrid Movie/TV-Show. 
+Skin: Eminence-Mod."
 
 
 name="Phenomenal K21 Debrid"
