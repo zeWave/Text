@@ -29,7 +29,7 @@ preview="http://"
 adult="no"
 info="https://zewave.github.io/"
 description="Addons: LiveTV, Sports, Free (Non-Debrid) movie/tv-show. 
-Skin: Aeon Nox SiLVO. Updated 03/08/2024"
+Skin: Aeon Nox SiLVO. Hebrew. Updated 03/08/2024"
 
 
 name="Zephyr K21 Debrid"
@@ -45,10 +45,10 @@ preview="http://"
 adult="no"
 info="https://zewave.github.io/"
 description="Addons: LiveTV, Sports, Real-Debrid Movie/TV-Show. 
-Skin: Arctic Zephyr Reloaded. Updated 03/08/2024"
+Skin: Arctic Zephyr Reloaded. Hebrew. Updated 03/08/2024"
 
 
-name="Eminence-Mod K21 Debrid"
+name="Eminence K21 Debrid"
 version="4.0.2"
 url="https://github.com/zeWave/Builds/raw/master/EminenceMod210v402A1.zip"
 minor="http://"
