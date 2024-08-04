@@ -34,7 +34,7 @@ Skin: Aeon Nox SiLVO. Hebrew. Updated 03/08/2024"
 
 name="Zephyr K21 Debrid"
 version="1.1.12"
-url="https://github.com/zeWave/Builds/raw/master/Zephyr210v1112A2a.zip"
+url="https://github.com/zeWave/Builds/raw/master/Zephyr210v1112A3a.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
@@ -45,7 +45,7 @@ preview="http://"
 adult="no"
 info="https://zewave.github.io/"
 description="Addons: LiveTV, Sports, Real-Debrid Movie/TV-Show. 
-Skin: Arctic Zephyr Reloaded. Hebrew. Updated 03/08/2024"
+Skin: Arctic Zephyr Reloaded. Hebrew. Updated 04/08/2024"
 
 
 name="=== for experts only ==="
