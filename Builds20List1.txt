@@ -28,14 +28,13 @@ fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
 preview="http://"
 adult="no"
 info="https://zewave.github.io/"
-description="Language: Hebrew. Skin: Aeon Nox Silvo. <br>
-Addons: Addons: Free (Non-Debrid) Movies/TV-Shows, LiveTV Channels, Sports. <br>
-Updated 03/08/2024"
+description="Language: Hebrew. Skin: Aeon Nox Silvo. 
+Addons: Addons: Free (Non-Debrid) Movies/TV-Shows, LiveTV Channels, Sports. 
 
 
 name="Zephyr K21 Debrid"
 version="1.1.12"
-url="https://github.com/zeWave/Builds/raw/master/Zephyr210v1112A4a.zip"
+url="https://github.com/zeWave/Builds/raw/master/Zephyr210v1112A5a.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
@@ -45,9 +44,9 @@ fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
 preview="http://"
 adult="no"
 info="https://zewave.github.io/"
-description="Language: Hebrew. Skin: Arctic Zephyr Reloaded. <br>
-Addons: Real-Debrid Movies/TV-Shows, LiveTV Channels, Sports. <br> 
-Updated 10/08/2024"
+description="Language: Hebrew. Skin: Arctic Zephyr Reloaded. 
+Addons: Real-Debrid Movies/TV-Shows, LiveTV Channels, Sports. 
+Updated 16/08/2024"
 
 
 name="=== for experts only ==="
