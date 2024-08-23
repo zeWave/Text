@@ -34,7 +34,7 @@ Addons: Addons: Free (Non-Debrid) Movies/TV-Shows, LiveTV Channels, Sports.
 
 name="Zephyr K21 Debrid"
 version="1.1.13"
-url="https://github.com/zeWave/Builds/raw/master/Zephyr210v1113A1a.zip"
+url="https://github.com/zeWave/Builds/raw/master/Zephyr211v1113A1a.zip"
 minor="http://"
 gui="http://"
 kodi="21.1"
