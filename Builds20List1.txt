@@ -33,11 +33,11 @@ Addons: Addons: Free (Non-Debrid) Movies/TV-Shows, LiveTV Channels, Sports.
 
 
 name="Zephyr K21 Debrid"
-version="1.1.12"
-url="https://github.com/zeWave/Builds/raw/master/Zephyr210v1112A5a.zip"
+version="1.1.13"
+url="https://github.com/zeWave/Builds/raw/master/Zephyr210v1113A1a.zip"
 minor="http://"
 gui="http://"
-kodi="21.0"
+kodi="21.1"
 theme="http://"
 icon="https://github.com/zeWave/images/raw/master/icon-Zypher210v1110.png"
 fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
@@ -46,7 +46,7 @@ adult="no"
 info="https://zewave.github.io/"
 description="Language: Hebrew. Skin: Arctic Zephyr Reloaded. 
 Addons: Real-Debrid Movies/TV-Shows, LiveTV Channels, Sports. 
-Updated 16/08/2024"
+Updated 23/08/2024"
 
 
 name="=== for experts only ==="
