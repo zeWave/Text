@@ -67,7 +67,7 @@ description="for Kodi experts only."
 
 name="Estuary K21"
 version="1.0.2"
-url="https://github.com/zeWave/Builds/raw/master/Estuary210v102A1a.zip"
+url="https://github.com/zeWave/Builds/raw/master/Estuary211v103A1a.zip"
 minor="http://"
 gui="https://github.com/zeWave/Builds/raw/master/Build_Estuary_Quick_Update-01.zip"
 kodi="21.0"
@@ -77,7 +77,9 @@ fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
 preview="http://"
 adult="no"
 info="https://zewave.github.io/"
-description="Omega build - Skin: Estuary."
+description="Language: Hebrew. Skin: Estuary. 
+Addons: Movies/TV-Shows (Free and Real-Debrid), LiveTV Channels, Sports. 
+Updated 24/08/2024"
 
 
 name="=== Test Build ==="
