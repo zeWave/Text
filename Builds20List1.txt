@@ -34,8 +34,8 @@ Updated 23/08/2024"
 
 
 name="Zephyr K21 Debrid"
-version="1.1.13"
-url="https://github.com/zeWave/Builds/raw/master/Zephyr211v1113A1a.zip"
+version="1.1.14"
+url="https://github.com/zeWave/Builds/raw/master/Zephyr211v1114A1a.zip"
 minor="http://"
 gui="http://"
 kodi="21.1"
@@ -47,7 +47,7 @@ adult="no"
 info="https://zewave.github.io/"
 description="Language: Hebrew. Skin: Arctic Zephyr Reloaded. 
 Addons: Real-Debrid Movies/TV-Shows, LiveTV Channels, Sports. 
-Updated 23/08/2024"
+Updated 29/08/2024"
 
 
 name="=== for experts only ==="
