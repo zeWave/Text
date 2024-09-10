@@ -1,0 +1,114 @@
+id="plugin.program.waveguiwiz"
+zip="https://zeWave.github.io/Wave/"
+
+
+name="=== K21 Omega Builds ==="
+version="0"
+url="https://"
+minor="http://"
+gui="http://"
+kodi="21.1"
+theme="http://"
+icon="https://github.com/zeWave/Images/raw/master/icon-Best-Kodi-21-Builds.jpg"
+fanart="https://raw.githubusercontent.com/zeWave/Images/master/fanart.jpg"
+preview="http://"
+adult="no"
+description="Best Kodi 21 Omega Builds"
+
+
+name="Silvo K21 Free"
+version="0.0.11"
+url="https://github.com/zeWave/Builds/raw/master/Silvo211v0012A1a.zip"
+minor="http://"
+gui="http://"
+kodi="21.1"
+theme="http://"
+icon="https://github.com/zeWave/images/raw/master/icon-Silvo210v009.png"
+fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
+preview="http://"
+adult="no"
+info="https://zewave.github.io/"
+description="Language: Hebrew. Skin: Aeon Nox Silvo. 
+Addons: Addons: Free (Non-Debrid) Movies/TV-Shows, LiveTV Channels, Sports. 
+Updated 23/08/2024"
+
+
+name="Zephyr K21 Debrid"
+version="1.1.14"
+url="https://github.com/zeWave/Builds/raw/master/Zephyr211v1114A1a.zip"
+minor="http://"
+gui="http://"
+kodi="21.1"
+theme="http://"
+icon="https://github.com/zeWave/images/raw/master/icon-Zypher210v1110.png"
+fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
+preview="http://"
+adult="no"
+info="https://zewave.github.io/"
+description="Language: Hebrew. Skin: Arctic Zephyr Reloaded. 
+Addons: Real-Debrid Movies/TV-Shows, LiveTV Channels, Sports. 
+Updated 29/08/2024"
+
+name="Estuary K21"
+version="1.0.5"
+url="https://github.com/zeWave/Builds/raw/master/Estuary211v105A1a.zip"
+minor="http://"
+gui="https://github.com/zeWave/Builds/raw/master/Build_Estuary_Quick_Update-01.zip"
+kodi="21.1"
+theme="http://"
+icon="https://github.com/zeWave/images/raw/master/icon-Estuary211v104A2.png"
+fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
+preview="http://"
+adult="no"
+info="https://zewave.github.io/"
+description="Language: Hebrew. Skin: Estuary. 
+Addons: Movies/TV-Shows (Free and Real-Debrid), LiveTV Channels, Sports. 
+Updated 10/09/2024"
+
+
+name="=== Test Build ==="
+version="0"
+url="https://"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://github.com/zeWave/images/raw/master/icon-test-2.jpg"
+fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="Test Build."
+
+
+name="Eminence K21 Debrid"
+version="4.0.2"
+url="https://github.com/zeWave/Builds/raw/master/EminenceMod210v402A1.zip"
+minor="http://"
+gui="https://github.com/zeWave/Builds/raw/master/Build_Estuary_Quick_Update-01.zip"
+kodi="21.0"
+theme="http://"
+icon="https://github.com/zeWave/images/raw/master/icon-EminenceMod210v401.png"
+fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
+preview="http://"
+adult="no"
+info="https://zewave.github.io/"
+description="Addons: LiveTV, Sports, Real-Debrid Movie/TV-Show. 
+Skin: Eminence-Mod."
+
+
+name="Phenomenal K21 Debrid"
+version="1.2.0"
+url="https://github.com/zeWave/Builds/raw/master/Phenomenal210v120A1a.zip"
+minor="http://"
+gui="https://github.com/zeWave/Builds/raw/master/Build_Estuary_Quick_Update-01.zip"
+kodi="21.0"
+theme="http://"
+icon="https://github.com/zeWave/images/raw/master/icon-Phenomenal210v120.png"
+fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
+preview="http://"
+adult="no"
+info="https://zewave.github.io/"
+description="A test Build with 
+Addons: LiveTV (IdanPlus), Sports (SportHD), Real-Debrid Movie/TV-Show (Asgard).
+Skin: Phenomenal Mod."
