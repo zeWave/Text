@@ -1,29 +1,31 @@
 2
 |||
 
-Hello & welcome to The Wave build installation wizard, 
+Hello & welcome to The Wave build installation wizard,
 Important to read:
 
 1- This project is intended for the purpose of experimenting and learning everything related to Kodi.
-As far as I'm concerned, only my family members are allowed to use this project.
+
+2- As far as I'm concerned, only my family members and friends are allowed to use this project.
 My apologies and thank you for understanding.
 
-2- This build is completely free!
+3- This build is completely free!
 If someone charges you money for the build, its installation, or anything else related to it, it is most likely a scammer.
 
-3- It is recommended to purchase a subscription to Real Debrid in order to receive more and higher quality sources.
-A subscription must be purchased exclusively from the official website!
-link to the website:
-https://real-debrid.com/
+4- I lernt from the web that:
+- It is recommended to purchase a subscription to Real-Debrid in order to receive more and higher quality sources.
+- A subscription must be purchased exclusively from the official website: https://real-debrid.com/
 
-4- InputStream Adaptive Add-on is a dependency for the following Add-ons: YouTube, DaddyLive, Rising-Tides. 
-Sometimes one must install it manually from the following links: 
+5- InputStream Adaptive Add-on is a dependency for the following Add-ons:
+YouTube, DaddyLive, Rising-Tides ...
+- Sometimes one must install it manually from the following links:
 https://mirrors.kodi.tv/addons/nexus/inputstream.adaptive+android-armv7/
 or
 https://mirrors.kodi.tv/addons/nexus/inputstream.adaptive+android-aarch64/
 
-5- If you change langueage to Hebrew or something else, 
-it is recomended in Kodi -> Settings -> Skin-settings -> Home -> Home Shortcuts and Widgets -> Show widget posters ->
-to change from Always to "תמיד" .
+6- If you change langueage to Hebrew (or other langueage ),
+it is recomended in Kodi
+-> Settings -> Skin-settings -> Home -> Home Shortcuts and Widgets -> Show widget posters ->
+-- to change from Always to -- "תמיד" .
 
 Have a good Day :)
