@@ -1,31 +1,28 @@
 2
 |||
 
-Hello & welcome to The Wave build installation wizard,
-Important to read:
+שלום וברוכים הבאים לאשף ההתקנה של Wave בילד,
+חשוב לקרוא:
 
-1- This project is intended for the purpose of experimenting and learning everything related to Kodi.
+1- פרויקט זה נועד לצורך התנסות ולימוד כל מה שקשור לקודי.
 
-2- As far as I'm concerned, only my family members and friends are allowed to use this project.
-My apologies and thank you for understanding.
+2- מבחינתי, רק בני המשפחה והחברים שלי רשאים להשתמש בפרויקט הזה.
+אני מתנצל מראש ותודה על ההבנה.
 
-3- This build is completely free!
-If someone charges you money for the build, its installation, or anything else related to it, it is most likely a scammer.
+3- בילד זה הוא חינמי לגמרי !
+אם מישהו מנסה לגבות מכם כסף עבור הבילד ו/או ההתקנה של הבילד או כל דבר אחר שקשור לבילד, סביר להניח שמדובר ברמאי.
 
-4- I lernt from the web that:
-- It is recommended to purchase a subscription to Real-Debrid in order to receive more and higher quality sources.
-- A subscription must be purchased exclusively from the official website: https://real-debrid.com/
+4- רציתי לציין שקראתי ברשת האינטרנט ש:
+- יש כאלה שממליצים לרכוש מנוי ל- ריל-דבריד על מנת לקבל מקורות נוספים ואיכותיים יותר.
+- מנוי ניתן לרכוש אך ורק מהאתר הרשמי: https://real-debrid.com/
+- לאחר רכישת המנוי, עבור רוב ההרחבות יש לבצע האימות באמצעות ההרחבה ResolveURL.
+- יש הרחבות שהאימות מתבצע בהגרות של כל הרחבה בנפרד כמו ב: Umbrella, Fen, Fen-Light ...
 
-5- InputStream Adaptive Add-on is a dependency for the following Add-ons:
+5- הרחבת קודי InputStream.Adaptiveהיא הרחבת תלות עבור ההרחבות הבאות:
 YouTube, DaddyLive, Rising-Tides ...
-- Sometimes one must install it manually from the following links:
+- לפעמים יש להתקין אותה באופן ידני מהקישורים הבאים:
 https://mirrors.kodi.tv/addons/nexus/inputstream.adaptive+android-armv7/
-or
+אוֹ
 https://mirrors.kodi.tv/addons/nexus/inputstream.adaptive+android-aarch64/
 
-6- If you change langueage to Hebrew (or other langueage ),
-it is recomended in Kodi
--> Settings -> Skin-settings -> Home -> Home Shortcuts and Widgets -> Show widget posters ->
--- to change from Always to -- "תמיד" .
-
-Have a good Day :)
+אני מאחל שיהיה לכולנו יום טוב :)
