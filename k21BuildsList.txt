@@ -51,7 +51,7 @@ Updated 29/08/2024"
 
 name="Estuary K21"
 version="1.0.5"
-url="https://github.com/zeWave/Builds/raw/master/Estuary211v105A2a.zip"
+url="https://github.com/zeWave/Builds/raw/master/Estuary211v105A3a.zip"
 minor="http://"
 gui="https://github.com/zeWave/Builds/raw/master/Build_Estuary_Quick_Update-01.zip"
 kodi="21.1"
