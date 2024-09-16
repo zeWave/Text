@@ -2,6 +2,23 @@ id="plugin.program.waveguiwiz"
 zip="https://zeWave.github.io/Wave/"
 
 
+name="Estuary K21"
+version="1.0.5"
+url="https://github.com/zeWave/Builds/raw/master/Estuary211v105A3a.zip"
+minor="http://"
+gui="https://github.com/zeWave/Builds/raw/master/Build21_Estuary_Quick_Update-01.zip"
+kodi="21.1"
+theme="http://"
+icon="https://github.com/zeWave/images/raw/master/icon-Estuary211v104A2.png"
+fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
+preview="http://"
+adult="no"
+info="https://zewave.github.io/"
+description="Language: Hebrew. Skin: Estuary. 
+Addons: Movies/TV-Shows (Free and Real-Debrid), LiveTV Channels, Sports. 
+Updated 10/09/2024"
+
+
 name="=== K21 Omega Builds ==="
 version="0"
 url="https://"
@@ -48,22 +65,6 @@ info="https://zewave.github.io/"
 description="Language: Hebrew. Skin: Arctic Zephyr Reloaded. 
 Addons: Real-Debrid Movies/TV-Shows, LiveTV Channels, Sports. 
 Updated 29/08/2024"
-
-name="Estuary K21"
-version="1.0.5"
-url="https://github.com/zeWave/Builds/raw/master/Estuary211v105A3a.zip"
-minor="http://"
-gui="https://github.com/zeWave/Builds/raw/master/Build21_Estuary_Quick_Update-01.zip"
-kodi="21.1"
-theme="http://"
-icon="https://github.com/zeWave/images/raw/master/icon-Estuary211v104A2.png"
-fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
-preview="http://"
-adult="no"
-info="https://zewave.github.io/"
-description="Language: Hebrew. Skin: Estuary. 
-Addons: Movies/TV-Shows (Free and Real-Debrid), LiveTV Channels, Sports. 
-Updated 10/09/2024"
 
 
 name="=== Test Build ==="
