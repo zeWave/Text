@@ -2,6 +2,19 @@ id="plugin.program.waveguiwiz"
 zip="https://zeWave.github.io/Wave/"
 
 
+name="=== K21 Omega Builds ==="
+version="0"
+url="https://"
+minor="http://"
+gui="http://"
+kodi="21.1"
+theme="http://"
+icon="https://github.com/zeWave/Images/raw/master/icon-Best-Kodi-21-Builds.jpg"
+fanart="https://raw.githubusercontent.com/zeWave/Images/master/fanart.jpg"
+preview="http://"
+adult="no"
+description="Best Kodi 21 Omega Builds"
+
 name="Estuary K21"
 version="1.0.5"
 url="https://github.com/zeWave/Builds/raw/master/Estuary211v105A3a.zip"
@@ -17,20 +30,6 @@ info="https://zewave.github.io/"
 description="Language: Hebrew. Skin: Estuary. 
 Addons: Movies/TV-Shows (Free and Real-Debrid), LiveTV Channels, Sports. 
 Updated 10/09/2024"
-
-
-name="=== K21 Omega Builds ==="
-version="0"
-url="https://"
-minor="http://"
-gui="http://"
-kodi="21.1"
-theme="http://"
-icon="https://github.com/zeWave/Images/raw/master/icon-Best-Kodi-21-Builds.jpg"
-fanart="https://raw.githubusercontent.com/zeWave/Images/master/fanart.jpg"
-preview="http://"
-adult="no"
-description="Best Kodi 21 Omega Builds"
 
 
 name="Silvo K21 Free"
