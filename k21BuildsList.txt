@@ -1,9 +1,9 @@
-id="plugin.program.waveguiwiz"
+id="plugin.program.wave"
 zip="https://zeWave.github.io/Wave/"
 
 name="Estuary K21"
 version="1.0.6"
-url="https://github.com/zeWave/Builds/raw/master/Estuary211v106A1a.zip"
+url="https://github.com/zeWave/Builds/raw/master/Estuary211v106A2a.zip"
 minor="http://"
 gui="https://github.com/zeWave/QuickUpdates/raw/master/QuickUpdateEstuary01.zip"
 kodi="21.1"
