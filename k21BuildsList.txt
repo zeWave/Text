@@ -13,9 +13,9 @@ fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
 preview="http://"
 adult="no"
 info="https://zewave.github.io/"
-description="Language: Hebrew. Skin: Estuary. 
-Addons: Movies/TV-Shows (Free and Real-Debrid), LiveTV Channels, Sports. 
-Updated 10/09/2024"
+description="Language: Hebrew. סקין: Estuary
+הרחבות: סרטים וסדרות (גם חינמיים וגם דבריד), ערוצי טלוויזיה בשידור-חי, ספורט.
+עודכן ב-18/09/2024"
 
 
 name="Silvo K21 Free"
