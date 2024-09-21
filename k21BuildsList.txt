@@ -3,7 +3,7 @@ zip="https://zeWave.github.io/Wave/"
 
 name="Estuary K21"
 version="1.0.6"
-url="https://github.com/zeWave/Builds/raw/master/Estuary211v106A2a.zip"
+url="https://github.com/zeWave/Builds/raw/master/Estuary211v106A3a.zip"
 minor="http://"
 gui="https://github.com/zeWave/QuickUpdates/raw/master/QuickUpdateEstuary01.zip"
 kodi="21.1"
@@ -14,7 +14,7 @@ preview="http://"
 adult="no"
 info="https://zewave.github.io/"
 description="הרחבות: סרטים וסדרות (גם חינמיים וגם דבריד), ערוצי טלוויזיה בשידור-חי, ספורט. - 
-עודכן ב-18/09/2024 - Skin: Estuary - Language: Hebrew."
+- עודכן ב-21/09/2024 - Skin: Estuary - Language: Hebrew."
 
 
 name="Silvo K21 Free"
