@@ -3,7 +3,7 @@ zip="https://zeWave.github.io/Wave/"
 
 name="Estuary K21"
 version="1.0.7"
-url="https://github.com/zeWave/Builds/raw/master/Estuary211v107A3a.zip"
+url="https://github.com/zeWave/Builds/raw/master/Estuary211v107A4a.zip"
 minor="http://"
 gui="https://github.com/zeWave/QuickUpdates/raw/master/QuickUpdateEstuary01.zip"
 kodi="21.1"
@@ -13,7 +13,7 @@ fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
 preview="http://"
 adult="no"
 info="https://zewave.github.io/"
-description="הרחבות: סרטים וסדרות (גם חינמיים וגם דבריד), ערוצי טלוויזיה בשידור-חי, ספורט -- מהדורה 3 --
+description="הרחבות: סרטים וסדרות (גם חינמיים וגם דבריד), ערוצי טלוויזיה בשידור-חי, ספורט -- מהדורה 4 --
 -- עודכן ב-23/09/2024 -- Skin: Estuary -- Language: Hebrew"
 
 
