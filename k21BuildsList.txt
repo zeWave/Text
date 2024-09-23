@@ -13,8 +13,8 @@ fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
 preview="http://"
 adult="no"
 info="https://zewave.github.io/"
-description="הרחבות: סרטים וסדרות (גם חינמיים וגם דבריד), ערוצי טלוויזיה בשידור-חי, ספורט. - מהדורה 3 --
--- עודכן ב-23/09/2024 -- Skin: Estuary -- Language: Hebrew."
+description="הרחבות: סרטים וסדרות (גם חינמיים וגם דבריד), ערוצי טלוויזיה בשידור-חי, ספורט -- מהדורה 3 --
+-- עודכן ב-23/09/2024 -- Skin: Estuary -- Language: Hebrew"
 
 
 name="Silvo K21 Free"
