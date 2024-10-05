@@ -1,13 +1,28 @@
 2
 |||
+
+<html lang="he">
+<head>
+  <meta charset="utf-8" />
+  <title>דף בעברית</title>
+  <style type="text/css">
+    body {
+      direction: rtl;
+    }
+  </style>
+</head>
+<body>
+
 [COLOR yellow]שלום וברוכים הבאים לאשף התקנת הבילדים של צוות The-Wave,[/COLOR]
 [COLOR red]חשוב לקרוא:[/COLOR]
 
 [span dir="rtl"]בילד בעברית[/span]
-<span dir="ltr">C#</span>
-<h3>אני משתמש ב- WebMatrix לפיתוח אתרים</h3>
+<span dir="ltr">Hebrew</span>
+<h3>פרויקט</h3>
 
 בתפריט "מסך הבית" --> כפתור "[COLOR orange]פרויקט[/COLOR]"
+  <h3>אני משתמש ב- WebMatrix לפיתוח אתרים</h3>
+  <p>אני מפתחי בשפת C# כשאני רוצה לכתוב תוכניות</p>
 
 1- פרויקט זה נועד לצורך התנסות ולימוד שלנו בכל הקשור לקודי. 
 אנו נותנים את הסכמתנו לשימוש בבילדים רק לבני משפחתנו ולחברים שלנו. 
@@ -35,3 +50,8 @@
 
 אנו מאחלים שיהיה לכולנו יום טוב :)
 [ספטמבר 2024]
+
+</body>
+</html>
+
+
