@@ -3,7 +3,7 @@
 [COLOR yellow]שלום וברוכים הבאים לאשף התקנת הבילדים של צוות The-Wave,[/COLOR]
 [COLOR red]חשוב לקרוא:[/COLOR]
 
-[p dir="rtl"]בילד בעבדית[/p]
+[p dir="rtl"]בילד בעברית[/p]
 
 בתפריט "מסך הבית" --> כפתור "[COLOR orange]פרויקט[/COLOR]"
 
