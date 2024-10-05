@@ -1,5 +1,5 @@
 id="plugin.program.wave"
-zip="https://zeWave.github.io/Wave/"
+zip="https://zeWave.github.io/Wave/plugin.program.wave-2.0.15.zip"
 
 name="Estuary K21"
 version="1.0.8"
