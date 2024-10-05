@@ -3,7 +3,9 @@
 [COLOR yellow]שלום וברוכים הבאים לאשף התקנת הבילדים של צוות The-Wave,[/COLOR]
 [COLOR red]חשוב לקרוא:[/COLOR]
 
-[p dir="rtl"]בילד בעברית[/p]
+[span dir="rtl"]בילד בעברית[/span]
+<span dir="ltr">C#</span>
+<h3>אני משתמש ב- WebMatrix לפיתוח אתרים</h3>
 
 בתפריט "מסך הבית" --> כפתור "[COLOR orange]פרויקט[/COLOR]"
 
