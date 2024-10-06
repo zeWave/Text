@@ -13,7 +13,8 @@ fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
 preview="http://"
 adult="no"
 info="https://zewave.github.io/"
-description="הרחבות: סרטים וסדרות (גם חינמיים וגם דבריד), ערוצי טלוויזיה בשידור-חי, ספורט -- מהדורה 1 --
+description="הרחבות וידאו: סרטים וסדרות (גם חינמיים וגם דבריד), ערוצי טלוויזיה בשידור-חי, ספורט, 
+הרחבות אודיו (רדיו, מוזיקה) -- מהדורה 1 --
 -- עודכן ב-06/10/2024 -- Skin: Estuary -- Language: Hebrew"
 
 
