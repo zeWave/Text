@@ -11,8 +11,7 @@
 
 4- [COLOR yellow][B] שימוש בריל דבריד לקבלת מקורות נוספים ואיכותיים יותר -[/B][/COLOR] ברשת האינטרנט מופיעות המלצות על רכישת מנוי ל- ריל-דבריד על מנת לקבל מקורות נוספים ואיכותיים יותר. אנחנו לא מביעים דעה בנושא, אבל כדאי לדעת שמנוי ניתן לרכוש אך ורק מהאתר הרישמי: [COLOR blue][B] https://real-debrid.com[/B][/COLOR] . לאחר רכישת המנוי, עבור רוב ההרחבות, יש לבצע אימות באמצעות הרחבה [COLOR orange][B]ResolveURL[/B][/COLOR]. - יש הרחבות שהאימות מתבצע בהגדרות של כל הרחבה בנפרד, כמו ב: [COLOR orange][B]Umbrella, Fen, Fen-Light[/B][/COLOR].
 
-5- [COLOR yellow][B] בעיות בהתקנת הרחבה בגלל אי התקנה של הרחבות תלות -[/B][/COLOR] .................................................................................. .....................................
-
+5- [COLOR yellow][B] בעיות בהתקנת הרחבה בגלל אי התקנה של הרחבות תלות -[/B][/COLOR] .................................................................................. ......................
 [COLOR white]אם לא מצליחים להתקין הרחבות כמו:[/COLOR] [COLOR orange][B]YouTube, Free, Rising-Tides, Mad-Titan-Sports[/B][/COLOR]. [COLOR white] מומלץ להתקיו את הרחבת תלות: [/COLOR] [COLOR orange][B]InputStream.Adaptive[/B][/COLOR]. 
 [COLOR white]להרחבה:[/COLOR][COLOR orange][B]Mad-Titan-Sports[/B][/COLOR][COLOR white]נדרשת גם הרחבת תלות:[/COLOR] [COLOR orange][B]InputStream.FFmpegDirect[/B][/COLOR]. 
 
