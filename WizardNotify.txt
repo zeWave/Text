@@ -1,7 +1,7 @@
 2
 |||
 
-[COLOR yellow][B] שלום וברוכים הבאים לאשף התקנת הבילדים של צוות[/B][/COLOR] [COLOR red][B]The-Wave[/B][/COLOR][COLOR yellow][B],[/B][/COLOR][COLOR yellow][B] חשוב לידיעתכם:[/B][/COLOR] ...........................................
+[COLOR yellow][B] שלום וברוכים הבאים לאשף התקנת הבילדים של צוות[/B][/COLOR] [COLOR red][B]The-Wave[/B][/COLOR][COLOR yellow][B],[/B][/COLOR][COLOR yellow][B] חשוב לידיעתכם:[/B][/COLOR] ..................................................................................
 
 1- [COLOR yellow][B] הסכמתינו לשימוש בבילדים והסרת אחריות -[/B][/COLOR] פרויקט זה נועד לצורך התנסות ולימוד שלנו בכל הקשור לקודי. אנו נותנים את הסכמתנו לשימוש בבילדים רק לבני משפחתנו ולחברים שלנו. אם בכל זאת החלטתם להשתמש בבילדים הללו, זה לגמרי באחריותכם, ואין לנו קבוצת תמיכה במדיה החברתית. אנו מתנצלים מראש ותודה על ההבנה. 
 
@@ -13,7 +13,7 @@
 
 5- [COLOR yellow][B] בעיות בהתקנת הרחבה בגלל אי התקנה של הרחבות תלות -[/B][/COLOR] .................................................................................. ......................
 [COLOR white]אם לא מצליחים להתקין הרחבות כמו:[/COLOR] [COLOR orange][B]YouTube, Free, Rising-Tides, Mad-Titan-Sports[/B][/COLOR]. [COLOR white] מומלץ להתקיו את הרחבת תלות: [/COLOR] [COLOR orange][B]InputStream.Adaptive[/B][/COLOR]. 
-[COLOR white]להרחבה:[/COLOR][COLOR orange][B]Mad-Titan-Sports[/B][/COLOR][COLOR white]נדרשת גם הרחבת תלות:[/COLOR]  [COLOR orange][B]InputStream.FFmpegDirect[/B][/COLOR]. 
+[COLOR white]להרחבה: [/COLOR][COLOR orange][B]Mad-Titan-Sports[/B][/COLOR][COLOR white] נדרשת גם הרחבת תלות:[/COLOR]  [COLOR orange][B]InputStream.FFmpegDirect[/B][/COLOR]. 
 
 במקרים כאלה אפשר להגדיר מקור התקנה במנהל הקבצים של קודי - להגדיר כתובת: [COLOR blue][B]https://zeWave.github.io/inputstream/[/B][/COLOR] לתת לו שם כלשהו, כמו: [COLOR blue][B]Wave[/B][/COLOR] .ואחר כך לבצע התקנה מקובץ זיפ ממקור ההתקנה שהגדרנו קודם. 
 
