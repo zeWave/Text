@@ -13,8 +13,9 @@ Wikipedia: </br>
 https://en.m.wikipedia.org/wiki/Queen_U_of_Goguryeo
 
 ● from 993 to 1019 </br> 
-The Goryeo–Khitan War
-סידרה: 
+The Goryeo–Khitan War </br>
+סידרה: מלחמת קוריאה – קיטאן </br> 
+https://www.ateamas.com/archives/119065 </br> 
 Wikipedia: </br> 
 https://en.wikipedia.org/wiki/Goryeo%E2%80%93Khitan_War</br>
 
