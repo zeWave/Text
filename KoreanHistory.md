@@ -57,8 +57,12 @@ https://en.m.wikipedia.org/wiki/Sejong_the_Great </br>
 
 ● from 1597 </br> 
 The Battle of Myeongnyang </br> 
+
 סרט: האדמירל </br> 
 https://www.ateamas.com/archives/3535 </br> 
+
+Wikipedia: </br> 
+https://en.m.wikipedia.org/wiki/Battle_of_Myeongnyang </br> 
 </br> 
 
 ● from 1623 to 1649 </br> 
