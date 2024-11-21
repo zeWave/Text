@@ -7,6 +7,7 @@ https://en.m.wikipedia.org/wiki/Suro_of_Geumgwan_Gaya </br>
 
 ● from 180 to 234 </br> 
 Queen U of Goguryeo </br> 
+סידרה: המלכה או / נישואים שניים </br> 
 https://www.ateamas.com/archives/72561 </br> 
 Wikipedia: </br> 
 https://en.m.wikipedia.org/wiki/Queen_U_of_Goguryeo
