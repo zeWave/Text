@@ -13,7 +13,8 @@ Wikipedia: </br>
 https://en.m.wikipedia.org/wiki/Queen_U_of_Goguryeo
 
 ● from 993 to 1019 </br> 
-
+The Goryeo–Khitan War
+סידרה: 
 Wikipedia: </br> 
 https://en.wikipedia.org/wiki/Goryeo%E2%80%93Khitan_War</br>
 
