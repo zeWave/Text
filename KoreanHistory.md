@@ -42,6 +42,14 @@ Wikipedia: </br>
 https://en.wikipedia.org/wiki/Goryeo%E2%80%93Khitan_War</br>
 </br> 
 
+● from 1340 to 1369 A.D. </br> 
+סדרה: הקיסרית קי </br> 
+https://www.ateamas.com/archives/85599 </br> 
+
+Empress Gi </br> 
+https://en.m.wikipedia.org/wiki/Empress_Gi </br> 
+</br> 
+
 ● from 1388 to 1418 A.D.</br> 
 סידרה: שישה דרקונים מעופפים </br> 
 https://www.ateamas.com/archives/9225 </br> 
