@@ -21,7 +21,7 @@ https://www.ateamas.com/archives/72561 </br>
 Wikipedia: </br> 
 https://en.m.wikipedia.org/wiki/Queen_U_of_Goguryeo </br> 
 
-Her 1st husband - Gogukcheon </br> 
+Her 1st husband - Gogukcheon (179 - 197) </br> 
 https://en.m.wikipedia.org/wiki/Gogukcheon_of_Goguryeo </br> 
 </br> 
 
