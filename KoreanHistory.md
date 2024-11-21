@@ -1,4 +1,4 @@
-● from 42 to 199 </br> 
+● from 42 to 199 A.D.</br> 
 1st king of Geum-gwan Gaya - Kim Suro </br> 
 
 סדרה: מלך הברזל – קים סו רו </br> 
@@ -20,6 +20,10 @@ https://www.ateamas.com/archives/72561 </br>
 
 Wikipedia: </br> 
 https://en.m.wikipedia.org/wiki/Queen_U_of_Goguryeo </br> 
+
+The 8th King of Goguryeo - Sindae
+(165 – 179 A.D.)</br> 
+https://en.m.wikipedia.org/wiki/Sindae_of_Goguryeo </br> 
 
 Her 1st husband - The 9th King of Goguryeo - Gogukcheon (179 - 197) </br> 
 https://en.m.wikipedia.org/wiki/Gogukcheon_of_Goguryeo </br> 
