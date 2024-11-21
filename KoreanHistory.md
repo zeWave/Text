@@ -35,5 +35,5 @@ The 16th king of Joseon - Injo </br>
 הסרט: ציפור לילה </br> 
 https://www.ateamas.com/archives/60249 </br> 
 Wikipedia: </br> 
-
+https://en.m.wikipedia.org/wiki/Injo_of_Joseon </br> 
 .
