@@ -43,7 +43,7 @@ The 2nd king of Joseon - Jeongjong (1398-1400) </br>
 https://en.m.wikipedia.org/wiki/Jeongjong_of_Joseon </br> 
 
 The 3rd king of Joseon - Taejong </br> 
-https://en.m.wikipedia.org/wiki/Taejong_of_Joseon </br> 
+https://en.m.wikipedia.org/wiki/Taejong_of_Joseon (1400 - 1418) </br> 
 
 The 4th king of Joseon - Sejong the Great </br> 
 https://en.m.wikipedia.org/wiki/Sejong_the_Great </br> 
