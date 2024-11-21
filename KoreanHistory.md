@@ -12,6 +12,11 @@ https://www.ateamas.com/archives/72561 </br>
 Wikipedia: </br> 
 https://en.m.wikipedia.org/wiki/Queen_U_of_Goguryeo
 
+● from 993 to 1019 </br> 
+
+Wikipedia: </br> 
+https://en.wikipedia.org/wiki/Goryeo%E2%80%93Khitan_War</br>
+
 ● from 1923 to 1949 </br> 
 המלך ה-16 - אינג'ו </br> 
 הסרט: ציפור לילה </br> 
