@@ -3,6 +3,7 @@
 סדרה: מלך הברזל – קים סו רו </br> 
 https://www.asia4hb.com/view/iron-king/ - </br>
 Wikipedia: </br> 
+His wife - Heo Hwang-ok </br> 
 https://en.m.wikipedia.org/wiki/Suro_of_Geumgwan_Gaya </br> 
 
 https://en.m.wikipedia.org/wiki/Heo_Hwang-ok </br> 
