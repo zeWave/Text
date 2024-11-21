@@ -33,6 +33,9 @@ https://en.wikipedia.org/wiki/Goryeo%E2%80%93Khitan_War</br>
 סידרה: שישה דרקונים מעופפים </br> 
 https://www.ateamas.com/archives/9225 </br> 
 
+The 34th King of Goryeo - Gongyang (1389–1392) </br> 
+https://en.m.wikipedia.org/wiki/Gongyang_of_Goryeo </br> 
+
 The 1st king of Joseon - Taejo </br> 
 https://en.m.wikipedia.org/wiki/Taejo_of_Joseon </br> 
 
