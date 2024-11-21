@@ -23,6 +23,9 @@ https://en.m.wikipedia.org/wiki/Queen_U_of_Goguryeo </br>
 
 Her 1st husband - Gogukcheon (179 - 197) </br> 
 https://en.m.wikipedia.org/wiki/Gogukcheon_of_Goguryeo </br> 
+
+Her 2nd husband - Sansang </br> 
+https://en.m.wikipedia.org/wiki/Sansang_of_Goguryeo </br> 
 </br> 
 
 ● from 993 to 1019 </br> 
