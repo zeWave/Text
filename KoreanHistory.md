@@ -19,7 +19,7 @@ Queen U of Goguryeo </br>
 https://www.ateamas.com/archives/72561 </br> 
 
 Wikipedia: </br> 
-https://en.m.wikipedia.org/wiki/Queen_U_of_Goguryeo
+https://en.m.wikipedia.org/wiki/Queen_U_of_Goguryeo </br> 
 </br> 
 
 ● from 993 to 1019 </br> 
