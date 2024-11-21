@@ -33,6 +33,16 @@ https://en.wikipedia.org/wiki/Goryeo%E2%80%93Khitan_War</br>
 סידרה: שישה דרקונים מעופפים </br> 
 https://www.ateamas.com/archives/9225 </br> 
 
+The 1st king of Joseon - Taejo </br> 
+https://en.m.wikipedia.org/wiki/Taejo_of_Joseon </br> 
+</br> 
+
+The 2nd king of Joseon - Jeongjong </br> 
+https://en.m.wikipedia.org/wiki/Jeongjong_of_Joseon </br> 
+
+The 3rd king of Joseon - Taejong </br> 
+https://en.m.wikipedia.org/wiki/Taejong_of_Joseon </br> 
+
 ● from 1623 to 1649 </br> 
 The 16th king of Joseon - Injo </br> 
 
