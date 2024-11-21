@@ -39,7 +39,7 @@ https://en.m.wikipedia.org/wiki/Gongyang_of_Goryeo </br>
 The 1st king of Joseon - Taejo (1392 - 1398) </br> 
 https://en.m.wikipedia.org/wiki/Taejo_of_Joseon </br> 
 
-The 2nd king of Joseon - Jeongjong </br> 
+The 2nd king of Joseon - Jeongjong (1398-1400) </br> 
 https://en.m.wikipedia.org/wiki/Jeongjong_of_Joseon </br> 
 
 The 3rd king of Joseon - Taejong </br> 
