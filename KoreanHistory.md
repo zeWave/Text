@@ -30,8 +30,10 @@ Wikipedia: </br>
 https://en.wikipedia.org/wiki/Goryeo%E2%80%93Khitan_War</br>
 
 ● from 1923 to 1949 </br> 
-המלך ה-16 - אינג'ו </br> 
+The 16th king of Joseon - Injo </br> 
+
 הסרט: ציפור לילה </br> 
 https://www.ateamas.com/archives/60249 </br> 
-Wikipedia: 
+Wikipedia: </br> 
+
 .
