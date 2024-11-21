@@ -12,7 +12,7 @@ also known as Empress Boju </br>
 https://en.m.wikipedia.org/wiki/Heo_Hwang-ok </br> 
 </br> 
 
-● from 180 to 234 </br> 
+● from 165 to 234 A.D.</br> 
 Queen U of Goguryeo </br> 
 
 סידרה: המלכה או / נישואים שניים </br> 
@@ -25,14 +25,14 @@ The 8th King of Goguryeo - Sindae
 (165 – 179 A.D.)</br> 
 https://en.m.wikipedia.org/wiki/Sindae_of_Goguryeo </br> 
 
-Her 1st husband - The 9th King of Goguryeo - Gogukcheon (179 - 197) </br> 
+Her 1st husband - The 9th King of Goguryeo - Gogukcheon (179 - 197 A.D.) </br> 
 https://en.m.wikipedia.org/wiki/Gogukcheon_of_Goguryeo </br> 
 
-Her 2nd husband - The 10th King of Goguryeo - Sansang (197 - 227) </br> 
+Her 2nd husband - The 10th King of Goguryeo - Sansang (197 - 227 A.D.) </br> 
 https://en.m.wikipedia.org/wiki/Sansang_of_Goguryeo </br> 
 </br> 
 
-● from 993 to 1019 </br> 
+● from 993 to 1019 A.D.</br> 
 The Goryeo–Khitan War </br> 
 
 סידרה: מלחמת קוריאה – קיטאן </br> 
@@ -42,7 +42,7 @@ Wikipedia: </br>
 https://en.wikipedia.org/wiki/Goryeo%E2%80%93Khitan_War</br>
 </br> 
 
-● from 1388 to 1418 </br> 
+● from 1388 to 1418 A.D.</br> 
 סידרה: שישה דרקונים מעופפים </br> 
 https://www.ateamas.com/archives/9225 </br> 
 
