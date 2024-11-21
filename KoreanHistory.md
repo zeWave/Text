@@ -1,5 +1,5 @@
-בשנים 1923 עד 1949 
+מ- 1923 עד 1949 
 המלך ה-16 אינג'ו
-הסרט ציפור לילה
-herf ="https://www.ateamas.com/archives/60249"
+הסרט 
+<a herf ="https://www.ateamas.com/archives/60249">ציפור לילה</a>
 .
