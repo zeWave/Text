@@ -6,7 +6,8 @@ https://www.asia4hb.com/view/iron-king/ - </br>
 Wikipedia: </br> 
 https://en.m.wikipedia.org/wiki/Suro_of_Geumgwan_Gaya </br> 
 
-His wife - Heo Hwang-ok </br> 
+His wife - Heo Hwang-ok - 
+also known as Empress Boju </br> 
 https://en.m.wikipedia.org/wiki/Heo_Hwang-ok </br> 
 
 ● from 180 to 234 </br> 
