@@ -29,7 +29,7 @@ https://www.ateamas.com/archives/119065 </br>
 Wikipedia: </br> 
 https://en.wikipedia.org/wiki/Goryeo%E2%80%93Khitan_War</br>
 
-● </br> 
+● from 1398 to 1418 </br> 
 סידרה: שישה דרקונים מעופפים </br> 
 https://www.ateamas.com/archives/9225 </br> 
 
@@ -45,7 +45,7 @@ https://en.m.wikipedia.org/wiki/Jeongjong_of_Joseon </br>
 The 3rd king of Joseon - Taejong (1400 - 1418) </br> 
 https://en.m.wikipedia.org/wiki/Taejong_of_Joseon </br> 
 
-The 4th king of Joseon - Sejong the Great </br> 
+The 4th king of Joseon - Sejong the Great (1418 - 1450) </br> 
 https://en.m.wikipedia.org/wiki/Sejong_the_Great </br> 
 </br> 
 
