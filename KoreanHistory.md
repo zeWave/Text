@@ -46,26 +46,26 @@ https://en.wikipedia.org/wiki/Goryeo%E2%80%93Khitan_War</br>
 סידרה: שישה דרקונים מעופפים </br> 
 https://www.ateamas.com/archives/9225 </br> 
 
-The 33th King of Goryeo - Chang (1388–1389) </br> 
+The 33th King of Goryeo - Chang (1388–1389 A.D.) </br> 
 https://en.m.wikipedia.org/wiki/Chang_of_Goryeo </br> 
 
-The 34th King of Goryeo - Gongyang (1389–1392) </br> 
+The 34th King of Goryeo - Gongyang (1389–1392 A.D.) </br> 
 https://en.m.wikipedia.org/wiki/Gongyang_of_Goryeo </br> 
 
-The 1st king of Joseon - Taejo (1392 - 1398) </br> 
+The 1st king of Joseon - Taejo (1392 - 1398 A.D.) </br> 
 https://en.m.wikipedia.org/wiki/Taejo_of_Joseon </br> 
 
-The 2nd king of Joseon - Jeongjong (1398-1400) </br> 
+The 2nd king of Joseon - Jeongjong (1398-1400 A.D.) </br> 
 https://en.m.wikipedia.org/wiki/Jeongjong_of_Joseon </br> 
 
-The 3rd king of Joseon - Taejong (1400 - 1418) </br> 
+The 3rd king of Joseon - Taejong (1400 - 1418 A.D.) </br> 
 https://en.m.wikipedia.org/wiki/Taejong_of_Joseon </br> 
 
-The 4th king of Joseon - Sejong the Great (1418 - 1450) </br> 
+The 4th king of Joseon - Sejong the Great (1418 - 1450 A.D.) </br> 
 https://en.m.wikipedia.org/wiki/Sejong_the_Great </br> 
 </br> 
 
-● from 1597 </br> 
+● from 1597 A.D.</br> 
 The Battle of Myeongnyang </br> 
 
 סרט: האדמירל </br> 
@@ -75,7 +75,7 @@ Wikipedia: </br>
 https://en.m.wikipedia.org/wiki/Battle_of_Myeongnyang </br> 
 </br> 
 
-● from 1623 to 1649 </br> 
+● from 1623 to 1649 A.D. </br> 
 The 16th king of Joseon - Injo </br> 
 
 הסרט: ציפור לילה </br> 
