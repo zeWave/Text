@@ -67,6 +67,8 @@ https://en.m.wikipedia.org/wiki/Sejong_the_Great </br>
 
 ● from 1494 to 1506 </br> 
 סרט: הליצנים: משני המשחק </br> 
+https://www.ateamas.com/archives/44153 </br> 
+
 The 10th king of Joseon - Yeonsangun </br> 
 Considered the worst tyrant in Joseon's history </br> 
 https://en.wikipedia.org/wiki/Yeonsangun_of_Joseon </br> 
