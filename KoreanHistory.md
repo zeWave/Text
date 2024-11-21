@@ -65,6 +65,13 @@ The 4th king of Joseon - Sejong the Great (1418 - 1450 A.D.) </br>
 https://en.m.wikipedia.org/wiki/Sejong_the_Great </br> 
 </br> 
 
+● from 1494 to 1506 </br> 
+סרט: הליצנים: משני המשחק </br> 
+The 10th king of Joseon - Yeonsangun </br> 
+Considered the worst tyrant in Joseon's history </br> 
+https://en.wikipedia.org/wiki/Yeonsangun_of_Joseon </br> 
+</br> 
+
 ● from 1597 A.D.</br> 
 The Battle of Myeongnyang </br> 
 
