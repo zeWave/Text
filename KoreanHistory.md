@@ -1,5 +1,5 @@
-from 42 to 199 - 
-Kim Suro of Geum-gwan Gaya - 
+from 42 to 199 - </br>
+Kim Suro of Geum-gwan Gaya - </br>
 המלך ה-1 של גאיה - קים סורו - 
 https://www.asia4hb.com/view/iron-king/ - 
 ויקיפדיה: 
