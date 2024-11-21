@@ -1,5 +1,6 @@
 ● from 42 to 199 </br> 
-1st king of Geum-gwan Gaya - Kim Suro </br>
+1st king of Geum-gwan Gaya - Kim Suro </br> 
+
 סדרה: מלך הברזל – קים סו רו </br> 
 https://www.asia4hb.com/view/iron-king/ - </br> 
 
@@ -12,15 +13,19 @@ https://en.m.wikipedia.org/wiki/Heo_Hwang-ok </br>
 
 ● from 180 to 234 </br> 
 Queen U of Goguryeo </br> 
+
 סידרה: המלכה או / נישואים שניים </br> 
 https://www.ateamas.com/archives/72561 </br> 
+
 Wikipedia: </br> 
 https://en.m.wikipedia.org/wiki/Queen_U_of_Goguryeo
 
 ● from 993 to 1019 </br> 
-The Goryeo–Khitan War </br>
+The Goryeo–Khitan War </br> 
+
 סידרה: מלחמת קוריאה – קיטאן </br> 
 https://www.ateamas.com/archives/119065 </br> 
+
 Wikipedia: </br> 
 https://en.wikipedia.org/wiki/Goryeo%E2%80%93Khitan_War</br>
 
