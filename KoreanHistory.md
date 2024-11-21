@@ -10,6 +10,7 @@ https://en.m.wikipedia.org/wiki/Suro_of_Geumgwan_Gaya </br>
 His wife - Heo Hwang-ok - 
 also known as Empress Boju </br> 
 https://en.m.wikipedia.org/wiki/Heo_Hwang-ok </br> 
+</br> 
 
 ● from 180 to 234 </br> 
 Queen U of Goguryeo </br> 
@@ -19,6 +20,7 @@ https://www.ateamas.com/archives/72561 </br>
 
 Wikipedia: </br> 
 https://en.m.wikipedia.org/wiki/Queen_U_of_Goguryeo
+</br> 
 
 ● from 993 to 1019 </br> 
 The Goryeo–Khitan War </br> 
@@ -28,6 +30,7 @@ https://www.ateamas.com/archives/119065 </br>
 
 Wikipedia: </br> 
 https://en.wikipedia.org/wiki/Goryeo%E2%80%93Khitan_War</br>
+</br> 
 
 ● from 1398 to 1418 </br> 
 סידרה: שישה דרקונים מעופפים </br> 
@@ -57,4 +60,6 @@ https://www.ateamas.com/archives/60249 </br>
 
 Wikipedia: </br> 
 https://en.m.wikipedia.org/wiki/Injo_of_Joseon </br> 
+</br> 
+
 .
