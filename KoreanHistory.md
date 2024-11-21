@@ -5,6 +5,8 @@ https://www.asia4hb.com/view/iron-king/ - </br>
 Wikipedia: </br> 
 https://en.m.wikipedia.org/wiki/Suro_of_Geumgwan_Gaya </br> 
 
+https://en.m.wikipedia.org/wiki/Heo_Hwang-ok </br> 
+
 ● from 180 to 234 </br> 
 Queen U of Goguryeo </br> 
 סידרה: המלכה או / נישואים שניים </br> 
