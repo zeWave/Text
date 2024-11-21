@@ -24,7 +24,7 @@ https://en.m.wikipedia.org/wiki/Queen_U_of_Goguryeo </br>
 Her 1st husband - The 9th King of Goguryeo - Gogukcheon (179 - 197) </br> 
 https://en.m.wikipedia.org/wiki/Gogukcheon_of_Goguryeo </br> 
 
-Her 2nd husband - The 10th King of Goguryeo - Sansang </br> 
+Her 2nd husband - The 10th King of Goguryeo - Sansang (197 - 227) </br> 
 https://en.m.wikipedia.org/wiki/Sansang_of_Goguryeo </br> 
 </br> 
 
