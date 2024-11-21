@@ -1,6 +1,6 @@
 from 42 to 199 </br> 
 1st king of Geum-gwan Gaya - Kim Suro </br>
-סדרה; מלך הברזל – קים סו רו </br> 
+סדרה: מלך הברזל – קים סו רו </br> 
 https://www.asia4hb.com/view/iron-king/ - </br>
 ויקיפדיה: </br> 
 https://en.m.wikipedia.org/wiki/Suro_of_Geumgwan_Gaya </br> 
