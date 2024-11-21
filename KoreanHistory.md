@@ -5,8 +5,8 @@ https://www.asia4hb.com/view/iron-king/ - </br>
 Wikipedia: </br> 
 https://en.m.wikipedia.org/wiki/Suro_of_Geumgwan_Gaya </br> 
 
-● from 
-Queen Woo 
+● from 180 to 234 </br> 
+Queen U of Goguryeo </br> 
 https://en.m.wikipedia.org/wiki/Queen_U_of_Goguryeo
 
 ● from 1923 to 1949 </br> 
