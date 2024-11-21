@@ -49,7 +49,7 @@ https://www.ateamas.com/archives/85599 </br>
 Empress Gi </br> 
 https://en.m.wikipedia.org/wiki/Empress_Gi </br> 
 
-Her husband - Toghon Temür </br>
+Her husband - Emperor Huizong of Yuan - Toghon Temür </br>
 https://en.m.wikipedia.org/wiki/Toghon_Tem%C3%BCr </br> 
 </br> 
 
