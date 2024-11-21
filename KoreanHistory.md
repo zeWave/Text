@@ -48,6 +48,9 @@ https://www.ateamas.com/archives/85599 </br>
 
 Empress Gi </br> 
 https://en.m.wikipedia.org/wiki/Empress_Gi </br> 
+
+Her husband - Toghon Temür </br>
+https://en.m.wikipedia.org/wiki/Toghon_Tem%C3%BCr </br> 
 </br> 
 
 ● from 1388 to 1418 A.D.</br> 
