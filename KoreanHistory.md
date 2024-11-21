@@ -29,6 +29,10 @@ https://www.ateamas.com/archives/119065 </br>
 Wikipedia: </br> 
 https://en.wikipedia.org/wiki/Goryeo%E2%80%93Khitan_War</br>
 
+● </br> 
+סידרה: שישה דרקונים מעופפים </br> 
+https://www.ateamas.com/archives/9225 </br> 
+
 ● from 1623 to 1649 </br> 
 The 16th king of Joseon - Injo </br> 
 
