@@ -14,9 +14,8 @@ preview="http://"
 adult="no"
 info="https://zewave.github.io/"
 description="הרחבות וידאו: סרטים וסדרות (גם חינמיים וגם דבריד), ערוצי טלוויזיה בשידור-חי, ספורט, 
-הרחבות אודיו (רדיו, מוזיקה) -- מהדורה 2 --
--- עודכן ב-26/10/2024 -- Skin: Estuary -- Language: Hebrew
-הבילד הכי מעודכן"
+הרחבות אודיו (רדיו, מוזיקה) -- מהדורה 2 -- הבילד הכי מעודכן
+-- עודכן ב-26/10/2024 -- Skin: Estuary -- Language: Hebrew"
 
 
 name="Silvo K21 Free"
