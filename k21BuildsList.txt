@@ -2,8 +2,8 @@ id="plugin.program.wave"
 zip="https://zeWave.github.io/Wave/plugin.program.wave-2.0.15.zip"
 
 name="Estuary K21"
-version="1.1.01"
-url="https://github.com/zeWave/Builds/raw/master/Estuary211v1101A1a.zip"
+version="1.1.02"
+url="https://github.com/zeWave/Builds/raw/master/Estuary211v1102A1a.zip"
 minor="http://"
 gui="https://github.com/zeWave/QuickUpdates/raw/master/QuickUpdateEstuary01.zip"
 kodi="21.1"
@@ -13,9 +13,10 @@ fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
 preview="http://"
 adult="no"
 info="https://zewave.github.io/"
-description="הרחבות וידאו: סרטים וסדרות (גם חינמיים וגם דבריד), ערוצי טלוויזיה בשידור-חי, ספורט, , 
- -- הרחבות אודיו (רדיו, מוזיקה) -- מהדורה 1 -- הבילד הכי מעודכן 
--- 15/12/2024 -- Skin: Estuary -- Language: Hebrew"
+description="
+הרחבות וידאו: סרטים וסדרות (גם חינמיים וגם דבריד), ערוצי טלוויזיה בשידור-חי, ספורט,  
+ -- הרחבות אודיו (רדיו, מוזיקה) -- מהדורה 1 -- הבילד הכי מעודכן --
+-- 29/01/2025 -- Skin: Estuary -- Language: Hebrew"
 
 
 name="Silvo K21 Free"
