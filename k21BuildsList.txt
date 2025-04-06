@@ -15,11 +15,11 @@ adult="no"
 info="https://zewave.github.io/"
 description="
 הרחבות וידאו: סרטים וסדרות (גם חינמיים וגם דבריד), ערוצי טלוויזיה בשידור-חי, ספורט,  
- -- הרחבות אודיו (רדיו, מוזיקה) -- גירסה 1.1.03 -- מהדורה 3 -- הבילד הכי מעודכן --
--- 29/03/2025 -- Skin: Estuary -- Language: Hebrew"
+ -- הרחבות אודיו (רדיו, מוזיקה) -- גירסה 1.1.03 -- מהדורה 4 -- הבילד הכי מעודכן --
+-- 06/04/2025 -- Skin: Estuary -- Language: Hebrew"
 
 
-name="=== Test Build ==="
+name="=== Test Builds ==="
 version="0"
 url="https://"
 minor="http://"
