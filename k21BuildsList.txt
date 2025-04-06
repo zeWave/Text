@@ -3,10 +3,10 @@ zip="https://zeWave.github.io/Wave/plugin.program.wave-2.0.15.zip"
 
 name="Estuary K21"
 version="1.1.03"
-url="https://github.com/zeWave/Builds/raw/master/Estuary211v1103A3a.zip"
+url="https://github.com/zeWave/Builds/raw/master/Estuary211v1103A4a.zip"
 minor="http://"
 gui="https://github.com/zeWave/QuickUpdates/raw/master/QuickUpdateEstuary01.zip"
-kodi="21.1"
+kodi="21.2"
 theme="http://"
 icon="https://github.com/zeWave/images/raw/master/icon-Estuary211v108A1.png"
 fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
@@ -17,6 +17,21 @@ description="
 הרחבות וידאו: סרטים וסדרות (גם חינמיים וגם דבריד), ערוצי טלוויזיה בשידור-חי, ספורט,  
  -- הרחבות אודיו (רדיו, מוזיקה) -- גירסה 1.1.03 -- מהדורה 3 -- הבילד הכי מעודכן --
 -- 29/03/2025 -- Skin: Estuary -- Language: Hebrew"
+
+
+name="=== Test Build ==="
+version="0"
+url="https://"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://github.com/zeWave/images/raw/master/icon-test-2.jpg"
+fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="Test Build."
 
 
 name="Silvo K21 Free"
@@ -51,21 +66,6 @@ info="https://zewave.github.io/"
 description="Language: Hebrew. Skin: Arctic Zephyr Reloaded. 
 Addons: Real-Debrid Movies/TV-Shows, LiveTV Channels, Sports. 
 Updated 29/08/2024"
-
-
-name="=== Test Build ==="
-version="0"
-url="https://"
-minor="http://"
-gui="http://"
-kodi="21.0"
-theme="http://"
-icon="https://github.com/zeWave/images/raw/master/icon-test-2.jpg"
-fanart="https://raw.githubusercontent.com/zeWave/images/master/fanart.jpg"
-preview="http://"
-adult="no"
-info="http://"
-description="Test Build."
 
 
 name="Eminence K21 Debrid"
