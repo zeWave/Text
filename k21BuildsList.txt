@@ -2,7 +2,7 @@ id="plugin.program.wave"
 zip="https://zeWave.github.io/Wave/plugin.program.wave-2.0.15.zip"
 
 name="Estuary K21"
-version="1.1.04"
+version="1.1.05"
 url="https://github.com/zeWave/Builds/raw/master/Estuary212v1105A1a.zip"
 minor="http://"
 gui="https://github.com/zeWave/QuickUpdates/raw/master/QuickUpdateEstuary01.zip"
