@@ -3,7 +3,7 @@ zip="https://zeWave.github.io/Wave/plugin.program.wave-2.0.15.zip"
 
 name="Estuary K21"
 version="1.1.06"
-url="https://github.com/zeWave/Builds/raw/master/Estuary212v1106A7a.zip"
+url="https://github.com/zeWave/Builds/raw/master/Estuary212v1106A8a.zip"
 minor="http://"
 gui="https://github.com/zeWave/QuickUpdates/raw/master/QuickUpdateEstuary01.zip"
 kodi="21.2"
@@ -15,8 +15,8 @@ adult="no"
 info="https://zewave.github.io/"
 description="
 הרחבות וידאו: סרטים וסדרות (גם חינמיים וגם דבריד), ערוצי טלוויזיה בשידור-חי, ספורט,  
- -- הרחבות אודיו (רדיו, מוזיקה) -- גירסה 1.1.06 -- מהדורה 7 -- הבילד הכי מעודכן --
--- 09/12/2025 -- Skin: Estuary -- Language: Hebrew"
+ -- הרחבות אודיו (רדיו, מוזיקה) -- גירסה 1.1.06 -- מהדורה 8 -- הבילד הכי מעודכן --
+-- 10/12/2025 -- Skin: Estuary -- Language: Hebrew"
 
 
 name="=== Test Builds ==="
