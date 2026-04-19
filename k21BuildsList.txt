@@ -4,7 +4,7 @@ zip="https://zeWave.github.io/Wave/plugin.program.wave-2.0.15.zip"
 
 name="Estuary K21 English"
 version="1.1.07"
-url="https://github.com/zeWave/Builds/raw/master/Estuary212Eng_v1107A6a.zip"
+url="https://github.com/zeWave/Builds/raw/master/Estuary212Eng_v1107A7a.zip"
 minor="http://"
 gui="https://github.com/zeWave/QuickUpdates/raw/master/QuickUpdateEstuary01.zip"
 kodi="21.2"
@@ -17,7 +17,7 @@ info="https://zewave.github.io/"
 description="
 "
 Video extensions: movies and series (both free and paid), live TV channels, Live sports, 
--- Audio extensions (radio, music) -- Version 1.1.07 -- Release 6 -- Most updated build --
+-- Audio extensions (radio, music) -- Version 1.1.07 -- Release 7 -- Most updated build --
 -- 19/04/2026 -- Skin: Estuary -- Language: English"
 
 
